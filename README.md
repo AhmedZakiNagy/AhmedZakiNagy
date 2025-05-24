@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Ahmed Alaa Zaki
 
-<!--
-**AhmedZakiNagy/AhmedZakiNagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning **front-end web development** from scratch.
 
-Here are some ideas to get you started:
+## 📚 Current Skills:
+- 🌱 HTML (In progress)
+- CSS (Coming Soon)
+- JavaScript (Coming Soon)
+- 
+- ## 🎯 My Goals:
+- Build real projects as i learn
+- Create a portofio website
+- Become a Front-End developer readt for job opportunities and freelance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Stay tuned for more updates
+---
+🚀 *Work in progress...*
 -->
